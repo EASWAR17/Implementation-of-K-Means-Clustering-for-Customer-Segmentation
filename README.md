@@ -57,10 +57,14 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
+### DATA.HEAD()
 
 ![image](https://user-images.githubusercontent.com/94154683/172996931-802aaea1-a2f4-4aee-9c94-86d092c85541.png)
 
+### DATA.INFO()
+
 ![image](https://user-images.githubusercontent.com/94154683/172996266-c938bc5f-3d84-423f-a511-eb1b4ec2a8ec.png)
+
 
 ![image](https://user-images.githubusercontent.com/94154683/172996301-7606d4bb-02a1-4a94-a376-67f5266c16bd.png)
 
